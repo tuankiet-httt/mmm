@@ -7,7 +7,7 @@ class MainView:
 
     def menu(self):
         while True:
-            print("\n=== Quản Lý Điện Thoại ===")
+            print("\n=== Quản Lý  ===")
             print("1. Xem tất cả điện thoại")
             print("2. Thêm điện thoại")
             print("3. Sửa điện thoại")
